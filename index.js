@@ -15,4 +15,5 @@ Array.prototype.SuffleArray=function(){
   let arr=[1,2,3,4,5,5];
   arr.SuffleArray();
 
-  
+
+console.log("hi");
